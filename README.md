@@ -28,4 +28,4 @@
 ### 과정 요약
 - baseline model을 `linear regression`으로 설정
 - 모델링에 `random forest regressor` 와 `xgbregressor` 사용
-- `xgbregressor`이 더 높은 성능을 보여 채택, 테스트 데이터 학습 결과 R^2 0.8318 도축
+- `xgbregressor`이 더 높은 성능을 보여 채택, 테스트 데이터 학습 결과 R^2 : 0.8318 도출
